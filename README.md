@@ -3,10 +3,10 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=mateusvarela&count_private=true&show_icons=true&custom_title=Roberto's%20Github%20Stats&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=mateusvarela&count_private=true&show_icons=true&custom_title=Mateus's%20Github%20Stats&hide=issues&theme=dracula"
     />
   </a>
-  <a href="https://github.com/robertoumbelino/github-readme-stats">
+  <a href="https://github.com/mateusvarela/github-readme-stats">
     <img
       align="center"
       height="165"
